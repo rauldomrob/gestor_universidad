@@ -1,4 +1,4 @@
-package sergio_victor_raul_uni;
+package universidad;
 
 import java.util.Scanner;
 
