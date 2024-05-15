@@ -3,7 +3,7 @@ package universidad;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Estudiante {
+public final class Estudiante {
     //Declaración de atributos privados de los objetos estudiantes.
     private String nombre;
     private String apellidos;
