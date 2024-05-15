@@ -6,10 +6,10 @@ import java.util.Scanner;
 
 public class Universidad {
     //Creacion de ArrayList dentro de universidad, para que cuando se creen nuevos objetos, entren dentro del objeto universidad.
-    private ArrayList <Departamento> departamentos = new ArrayList<>();
-    private ArrayList <Estudiante> estudiantes = new ArrayList<>();
-    private ArrayList <Profesor> profesores = new ArrayList<>();
-    private ArrayList <Curso> cursos = new ArrayList<>();
+    private final ArrayList <Departamento> departamentos = new ArrayList<>();
+    private final ArrayList <Estudiante> estudiantes = new ArrayList<>();
+    private final ArrayList <Profesor> profesores = new ArrayList<>();
+    private final ArrayList <Curso> cursos = new ArrayList<>();
    
     public Universidad(){           
     }
